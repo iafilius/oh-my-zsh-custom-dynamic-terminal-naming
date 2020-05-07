@@ -19,8 +19,9 @@ Example Screenshot:
 
 ## Installation
 
-After installing oh-my-zsh on you system, just copy the custom termsupport.zsh to the oh-my-zsh custom dir and reload zsh
+After installing oh-my-zsh on your system, just copy the custom termsupport.zsh to the oh-my-zsh custom dir and reload zsh
 
+example on linux:
 ```
 > cp termsupport-custom.zsh ~/.oh-my-zsh/custom/
 > . ~/.zshrc
@@ -43,7 +44,7 @@ a few i noticed:
 
 ## Limitations
 
-- The is a copy of ~/.oh-my-zsh/termsupport.zsh from oh-my-zsh on 2020/05/06, so if any update there this code needs an update too
+- The is a modified copy of ~/.oh-my-zsh/termsupport.zsh from oh-my-zsh on 2020/05/06, so if any update there this code needs an update too
 - This code focusses on window title only, as i need not see any implementation of tab title (terminator/gnome-terminal). happy to accept patches for it.
 
 
