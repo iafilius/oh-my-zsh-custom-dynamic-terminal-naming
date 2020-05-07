@@ -1,6 +1,6 @@
 # Dynamic and more usefull terminal named with oh-my-zsh
 
-This repo provides a customized termsupport.zsh for oh-my-zsh, which delivers advanced terminal window title naming as standard
+This repo provides a customized termsupport.zsh for oh-my-zsh, which delivers more advanced information in terminal window title as standard.
 
 ## features
 
